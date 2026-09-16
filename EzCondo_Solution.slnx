@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/EzCondo.MobileApp/" />
+  <Folder Name="/EzCondo.WebApp/">
+    <Project Path="EzCondo.BackendServer/EzCondo.BackendServer.csproj" />
+    <Project Path="EzCondo.Portal/EzCondo.Portal.csproj" />
+    <Project Path="EzCondo.ViewModel/EzCondo.ViewModel.csproj" />
+  </Folder>
+</Solution>
