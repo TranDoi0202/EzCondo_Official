@@ -1,0 +1,6 @@
+@EzCondo.BackendServer_HostAddress = http://localhost:5199
+
+GET {{EzCondo.BackendServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
